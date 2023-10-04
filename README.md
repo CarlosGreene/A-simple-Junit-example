@@ -1,1 +1,1 @@
-# A-simple-Junit-example
+# A simple Junit example
