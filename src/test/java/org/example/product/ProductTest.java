@@ -11,6 +11,7 @@ class ProductTest {
     static Product product;
     static Product product2;
     static Product product3;
+    static int number;
 
     @BeforeAll
     static public void setUp() {
